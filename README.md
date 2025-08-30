@@ -1,4 +1,3 @@
-PRODIGY_CS_01
 CAESAR CIPHER PYTHON TOOL
 
 The Caesar Cipher is one of the simplest and earliest known encryption techniques. It's named after Julius Caesar, who reportedly used it to encrypt his private correspondence.
